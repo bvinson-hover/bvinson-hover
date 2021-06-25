@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Kubernetes
+- 😄 Pronouns: he/him/his
+
 <!--
 **bvinson-hover/bvinson-hover** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
