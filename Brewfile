@@ -1,8 +1,8 @@
-pssh
-pyenv
-rbenv
-jq
-gitleaks
-jet
-clipy
-hub
+brew "pssh"
+brew "pyenv"
+brew "rbenv"
+brew "jq"
+brew "gitleaks"
+brew "jet"
+brew "clipy"
+brew "hub"
